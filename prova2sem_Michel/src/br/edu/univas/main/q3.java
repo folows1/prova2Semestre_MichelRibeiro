@@ -9,9 +9,9 @@ public class q3 {
 		String p = l.nextLine();
 		l.close();
 		if(palind(p)) {
-			System.out.println("É palíndromo!");
+			System.out.println("Ã‰ palÃ­ndromo!");
 		}else {
-			System.out.println("Não é palíndromo!");
+			System.out.println("NÃ£o Ã© palÃ­ndromo!");
 		}
 	}
 	
@@ -25,5 +25,5 @@ public class q3 {
 	}
 		return false;
 		
-		//* ESSA EU PESQUISEI BASTANTE PRA CONSEGUIR TERMINAR, NÃO SEI SE VALE!
+		
 }}
